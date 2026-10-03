@@ -1,0 +1,13 @@
+{
+  "name": "muhammad-taha-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Muhammad Taha - Graphic Designer & Management / Data",
+  "main": "server.js",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node server.js",
+    "build": "node test/check.js",
+    "test": "node test/check.js"
+  }
+}
